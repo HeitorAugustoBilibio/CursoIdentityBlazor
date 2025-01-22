@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Gestao/.vs
+/Gestao/Gestao/Gestao/bin/Debug/net8.0
+/Gestao/Gestao/Gestao/obj
+/Gestao/Gestao/Gestao.Client/bin/Debug/net8.0
+/Gestao/Gestao/Gestao.Client/obj
